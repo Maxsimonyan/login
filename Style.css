@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+}
+.login{
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+}
+.lava1>h1{
+    color: #fff;
+    font-size: 30px;
+}
+.login-container{
+    top: 30%;
+}
+.input{
+    width: 181px;
+    height: 10px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+.button{
+    width: 191px;
+    height: 41px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
